@@ -25,6 +25,6 @@
 ## Como Executar os Programas
 
 1. Certifique-se de ter o **JDK 8 ou superior** instalado.
-2. Baixe o código ou clone este repositório:
-   git clone https://github.com/CristianRadde/atividade01-poo
-3. Utilize um editor ou IDE, como Eclipse, IntelliJ IDEA, ou Visual Studio Code, para abrir e executar os arquivos .java.
+2. Acessar a pasta "src" que contém os códigos.
+3. Baixe ou copie os códigos individualmente.
+4. Utilize um editor ou IDE, como Eclipse, IntelliJ IDEA, ou Visual Studio Code, para abrir e executar os arquivos .java.
